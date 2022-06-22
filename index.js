@@ -72,8 +72,8 @@ ${chalk.cyan(`#`)}${chalk.yellow(` Trophy : ${trophy}`)}
 ${chalk.cyan(`#`)}${chalk.red(` Crown : ${crown}`)}
 ${chalk.cyan(`#`)}${chalk.green(` Status : Succes`)}
 ${chalk.cyan(`#`)}
-${chalk.cyan(`#`)}${chalk.azure(` Stuck? Sabar Delay Di Awal Tungguin Ae / Close`)}
-${chalk.cyan(`#`)}${chalk.azure(` Lu Sambil Nonton Tiktokan! Masih Ttep Jalan Kok Santai aja !!`)}
+${chalk.cyan(`#`)}${chalk.green(` Stuck? Sabar Delay Di Awal Tungguin Ae / Close`)}
+${chalk.cyan(`#`)}${chalk.green(` Lu Sambil Nonton Tiktokan Masih Tetep Jalan Kok Santai aja`)}
 ${chalk.cyan(`#`)}`));
 await sleep(5500);
     } else if (result == 'BANNED') {
